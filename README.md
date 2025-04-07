@@ -68,7 +68,7 @@ shoppy-globe/
    ```
 3. Navigate to project directory:
    ```bash
-   cd shoppy-globe
+   cd ShoppyGlobe
    ```
 4. Install dependencies:
    ```bash
